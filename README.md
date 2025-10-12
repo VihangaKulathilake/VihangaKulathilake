@@ -1,11 +1,13 @@
-# 👋 Hi, I'm Vihanga Kulathilake  
+<h1 align="center">👋 Hi, I'm Vihanga Kulathilake</h1>
 
-I'm a passionate **Full Stack Developer** exploring **Web Development** and **Java Backend Technologies**.  
-I enjoy building projects with **React**, **Spring Boot**, **PHP**, and **MySQL**, and love learning new technologies to create efficient, user-friendly solutions.
+<p align="center">
+  I'm a passionate <b>Full Stack Developer</b> exploring <b>Web Development</b> and <b>Java Backend Technologies</b>.<br/>
+  I enjoy building projects with <b>React</b>, <b>Spring Boot</b>, <b>PHP</b>, and <b>MySQL</b>, and love learning new technologies to create efficient, user-friendly solutions.
+</p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧠 Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
@@ -14,30 +16,52 @@ I enjoy building projects with **React**, **Spring Boot**, **PHP**, and **MySQL*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL" />
+</p>
+
+---
+
+## 🧰 Tools & Frameworks
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Logo.svg" width="60" height="60" alt="Jira" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vihanga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vihangajanith&show_icons=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vihangajanith&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vihangajanith&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vihangajanith&theme=react-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vihangajanith&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="100%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihangajanith&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihangajanith&theme=radical" alt="GitHub Streak" width="100%"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vihangajanith&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vihanga-kulathilake)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vihangajanith)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vihangajanith12m@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vihanga-kulathilake" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vihangajanith" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:vihangajanith12m@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="50" alt="Email"/>
+  </a>
+</p>
 
 ---
-
-⭐️ *"Code is like humor — when you have to explain it, it’s bad."*  
