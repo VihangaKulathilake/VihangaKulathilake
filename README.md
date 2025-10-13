@@ -54,10 +54,10 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VihangaKulathilake&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180em"/>
+      <img src="https://github-readme-stats-github-4w2y-git-main-rickstaa.vercel.app/api?username=VihangaKulathilake&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180em"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180em"/>
+      <img src="https://github-readme-stats-github-4w2y-git-main-rickstaa.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180em"/>
     </td>
   </tr>
 </table>
