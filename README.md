@@ -62,14 +62,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VihangaKulathilake&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" width="80%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VihangaKulathilake&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
-</p>
-
 ---
 
 ## 🌐 Connect with Me  
