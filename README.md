@@ -54,20 +54,20 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=vihangajanith&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="180em"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="180em"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihangajanith&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihangajanith&theme=radical" alt="GitHub Streak" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VihangaKulathilake&theme=radical" alt="GitHub Streak" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vihangajanith&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VihangaKulathilake&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 ---
