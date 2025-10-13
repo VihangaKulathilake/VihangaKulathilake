@@ -54,10 +54,10 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180em"/>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VihangaKulathilake&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180em"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180em"/>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180em"/>
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vihangajanith" target="_blank">
+  <a href="https://github.com/VihangaKulathilake" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
