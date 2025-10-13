@@ -54,16 +54,16 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="180em"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180em"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180em"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VihangaKulathilake&theme=radical" alt="GitHub Streak" width="80%"/>
+  <img src="https://streak-stats.demolab.com?user=VihangaKulathilake&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" width="80%"/>
 </p>
 
 <p align="center">
