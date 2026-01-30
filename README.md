@@ -1,59 +1,67 @@
 ## 👋 Vihanga Kulathilake
 
-Full Stack Developer with hands-on experience in building web and backend applications using modern technologies.  
-Focused on writing clean, maintainable code and developing scalable, user-centric solutions.
+Full Stack Developer with experience in building web and backend applications using modern technologies.  
+Focused on clean code, scalable architectures, and practical problem-solving.
 
-- 💻 Primary focus: **Web Development & Java Backend**
-- 🧩 Tech stack: **React, Spring Boot, PHP, MySQL**
-- 🔍 Interests: **REST APIs, backend architecture, system design**
-- 📈 Continuously improving through real-world projects and learning
+- 💻 Focus: **Web Development & Java Backend**
+- 🧩 Stack: **React, Spring Boot, PHP, MySQL**
+- 🔍 Interests: **REST APIs, backend systems, software design**
+- 📈 Learning through real-world projects and continuous improvement
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Snapshot
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&theme=dark)
+![Repos](https://img.shields.io/badge/Public%20Repos-%20-blue?logo=github)
+![Followers](https://img.shields.io/github/followers/VihangaKulathilake?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/VihangaKulathilake?label=Total%20Stars&style=flat)
 
 ---
 
 ### 🧠 Programming Languages
 
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
 
 ---
 
 ### ⚙️ Frameworks & Libraries
 
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+</p>
 
 ---
 
 ### 🗄️ Databases
 
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+</p>
 
 ---
 
 ### 🧰 Tools & Platforms
 
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg)
-![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
-![Jira](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
+</p>
 
 ---
 
 ### 🌐 Contact & Professional Profiles
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vihanga-kulathilake
-- 💻 GitHub: https://github.com/VihangaKulathilake
+- 💼 LinkedIn: https://www.linkedin.com/in/vihanga-kulathilake  
+- 💻 GitHub: https://github.com/VihangaKulathilake  
 - 📧 Email: vihangajanith12m@gmail.com
