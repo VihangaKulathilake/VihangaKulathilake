@@ -10,13 +10,6 @@ Focused on clean code, scalable architectures, and practical problem-solving.
 
 ---
 
-### 📊 GitHub Snapshot
-
-![Followers](https://img.shields.io/github/followers/VihangaKulathilake?label=Followers&style=flat)
-![Public Repos](https://img.shields.io/github/repos/VihangaKulathilake?style=flat)
-
----
-
 ### 🧠 Programming Languages
 
 <p>
