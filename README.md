@@ -12,9 +12,9 @@ Focused on clean code, scalable architectures, and practical problem-solving.
 
 ### 📊 GitHub Snapshot
 
-![Repos](https://img.shields.io/badge/Public%20Repos-%20-blue?logo=github)
 ![Followers](https://img.shields.io/github/followers/VihangaKulathilake?label=Followers&style=flat)
-![Stars](https://img.shields.io/github/stars/VihangaKulathilake?label=Total%20Stars&style=flat)
+![Public Repos](https://img.shields.io/github/repo-count/VihangaKulathilake?style=flat)
+![Top Language](https://img.shields.io/github/languages/top/VihangaKulathilake?style=flat)
 
 ---
 
@@ -63,5 +63,5 @@ Focused on clean code, scalable architectures, and practical problem-solving.
 ### 🌐 Contact & Professional Profiles
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vihanga-kulathilake  
-- 💻 GitHub: https://github.com/VihangaKulathilake  
+- 💻 GitLab: https://gitlab.com/VihangaKulathilake  
 - 📧 Email: vihangajanith12m@gmail.com
