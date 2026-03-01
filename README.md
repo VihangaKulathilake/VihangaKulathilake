@@ -4,7 +4,7 @@ Full Stack Developer with experience in building web and backend applications us
 Focused on clean code, scalable architectures, and practical problem-solving.
 
 - 💻 Focus: **Web Development & Java Backend**
-- 🧩 Stack: **React, Spring Boot, PHP, MySQL**
+- 🧩 Stack: **React, Spring Boot, PHP, MySQL, MERN**
 - 🔍 Interests: **REST APIs, backend systems, software design**
 - 📈 Learning through real-world projects and continuous improvement
 
