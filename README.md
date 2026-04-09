@@ -71,7 +71,7 @@ I specialize in **modern web development** and **Java backend systems**, and I�
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud Computing
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
