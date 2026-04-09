@@ -15,12 +15,13 @@ I specialize in **modern web development** and **Java backend systems**, and Iâ€
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VihangaKulathilake&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=VihangaKulathilake&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -94,7 +95,7 @@ I specialize in **modern web development** and **Java backend systems**, and Iâ€
 ## ðŸŽ¯ Interests
 
 - Artificial Intelligence & Machine Learning  
-- Cloud Computing
+- Cloud Computing  
 - Backend Engineering  
 - Software Architecture & Design  
 - Scalable Systems  
