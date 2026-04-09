@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Vihanga Kulathilake
 
-A passionate **Full Stack Developer** focused on building clean, scalable, and practical web applications.  
-I enjoy working on **web development**, **Java backend systems**, and **API-driven applications**, while continuously improving through real-world projects.
+A passionate **Full Stack Developer** focused on building clean, scalable, and production-ready applications.
 
-I am also deeply interested in **AI/ML** and **Cloud Computing**, and actively exploring them using Python-based tools and environments.
+🚀 Building real-world systems with a focus on **performance, scalability, and clean architecture**.
+
+I specialize in **modern web development** and **Java backend systems**, and I’m actively exploring **AI/ML** and **Cloud Computing** using **Python, Conda environments, and practical ML workflows**.
 
 ---
 
@@ -27,11 +28,11 @@ I am also deeply interested in **AI/ML** and **Cloud Computing**, and actively e
 ## 🚀 About Me
 
 - 💻 Focused on **Full Stack Web Development** and **Java Backend Development**
-- 🧠 Exploring **AI/ML** using **Python** and modern tooling
+- 🧠 Exploring **AI/ML** using **Python** and structured environments
 - ☁️ Interested in **Cloud Platforms** and scalable system design
-- 🔍 Enjoy building **REST APIs**, backend logic, and distributed systems
-- 🧪 Working with **Conda environments** for reproducible development setups
-- 📈 Continuously learning through real-world projects and experimentation
+- 🔍 Strong focus on **REST APIs**, backend logic, and system architecture
+- 🧪 Using **Conda environments** for reproducible development workflows
+- 📈 Continuously improving through real-world projects and hands-on building
 
 ---
 
@@ -56,7 +57,6 @@ I am also deeply interested in **AI/ML** and **Cloud Computing**, and actively e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" alt="Laravel" />
 </p>
 
 ---
@@ -95,17 +95,16 @@ I am also deeply interested in **AI/ML** and **Cloud Computing**, and actively e
 
 ## 🎯 Interests
 
-- Artificial Intelligence & Machine Learning
-- Cloud Computing & DevOps
-- REST API Development
-- Backend Engineering
-- Software Architecture & Design
-- Scalable Systems
+- Artificial Intelligence & Machine Learning  
+- Cloud Computing & DevOps  
+- Backend Engineering  
+- Software Architecture & Design  
+- Scalable Systems  
 
 ---
 
 ## 🌐 Contact & Profiles
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vihanga-kulathilake
-- 💻 GitLab: https://gitlab.com/VihangaKulathilake
+- 💼 LinkedIn: https://www.linkedin.com/in/vihanga-kulathilake  
+- 💻 GitLab: https://gitlab.com/VihangaKulathilake  
 - 📧 Email: vihangajanith12m@gmail.com
