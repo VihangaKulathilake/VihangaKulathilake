@@ -20,7 +20,7 @@
 <tr>
 <td align="center" width="25%">💻<br><b>ENGINEER</b><br><sub>Software Engineering · Full-Stack · AI</sub></td>
 <td align="center" width="25%">🎤<br><b>MUSIC</b><br><sub>Classical · Acoustic · Vocals</sub></td>
-<td align="center" width="25%">🏏<br><b>CRICKET</b><br><sub>Former school cricketer · Still love the game</sub></td>
+<td align="center" width="25%">🏏<br><b>CRICKET</b><br><sub>Love the game</sub></td>
 <td align="center" width="25%">🚀<br><b>BUILDER</b><br><sub>Projects · Ideas · Entrepreneurship</sub></td>
 </tr>
 </table>
