@@ -168,10 +168,10 @@ A university-focused conversational assistant using **retrieval-augmented genera
 
 Software isn't the only thing I enjoy building.
 
-🎵 **Music** — classical & acoustic vocals  
-🏏 **Cricket** — always tempted to get back on the field  
-🤝 **Community** — IEEE, university initiatives & tech events  
-💡 **Ideas** — especially the ones that could become real products
+🎵 **Music** - classical & acoustic vocals  
+🏏 **Cricket** - always tempted to get back on the field  
+🤝 **Community** - IEEE, university initiatives & tech events  
+💡 **Ideas** - especially the ones that could become real products
 
 ---
 
