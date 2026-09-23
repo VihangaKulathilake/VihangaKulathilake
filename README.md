@@ -1,109 +1,204 @@
-# 👋 Hi, I'm Vihanga Kulathilake
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         Vihanga Kulathilake                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-A passionate **Full Stack Developer** focused on building clean, scalable, and production-ready applications.
+<div align="center">
 
-🚀 Building real-world systems with a focus on **performance, scalability, and clean architecture**.
+# Hey, I'm Vihanga 👋
 
-I specialize in **modern web development** and **Java backend systems**, and I’m actively exploring **AI/ML** and **Cloud Computing** using **Python, Conda environments, and practical ML workflows**.
+### Software Engineering • Full-Stack Development • AI
 
----
+*I like turning ideas into systems that actually work.*
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VihangaKulathilake&label=Profile%20Views&color=0e75b6&style=flat" />
+<p>
+  <a href="https://github.com/VihangaKulathilake">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vihanga-kulathilake">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vihangajanith12m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VihangaKulathilake&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧭 About
 
-- 💻 Focused on **Full Stack Web Development** and **Java Backend Development**
-- 🧠 Exploring **AI/ML** using **Python** and structured environments
-- ☁️ Interested in **Cloud Platforms** and scalable system design
-- 🔍 Strong focus on **REST APIs**, backend logic, and system architecture
-- 🧪 Using **Conda environments** for reproducible development workflows
-- 📈 Continuously improving through real-world projects and hands-on building
+I'm a **Software Engineering undergraduate at the University of Kelaniya** who enjoys working across the stack — from designing APIs and distributed backend services to building polished interfaces.
 
----
+Right now, I'm especially interested in:
 
-## 🧠 Languages
+- 🏗️ **Backend engineering & system design**
+- ⚡ **Full-stack web applications**
+- 🤖 **AI/ML-powered products**
+- ☁️ **Cloud & scalable systems**
+- 🔐 **Developer tooling & application security**
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-</p>
+> **Build → break → learn → improve → ship.**
 
 ---
 
-## ⚙️ Frameworks & Libraries
+## ⚙️ What I Build
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Full-Stack Systems
+
+Building end-to-end applications with modern frontend frameworks, robust APIs, authentication, databases and integrations.
+
+**Typical stack**
+
+`Next.js` · `React` · `TypeScript` · `Spring Boot` · `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Intelligent Products
+
+Exploring practical AI — not just models, but products around them.
+
+**Currently exploring**
+
+`LLMs` · `RAG` · `Embeddings` · `ML` · `AI-assisted development`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Engineering & Infrastructure
+
+Interested in how applications behave beyond the local machine.
+
+`Docker` · `AWS` · `PostgreSQL` · `Redis` · `RabbitMQ` · `CI/CD`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Developer Experience
+
+I enjoy building tools that make development workflows more useful, observable and secure.
+
+`GitHub` · `GitLab` · `Jira` · `Postman` · `Linux`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🗄️ Databases
+## 🧰 Tech I Work With
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-</p>
+<div align="center">
 
----
+### Languages
 
-## ☁️ Cloud Computing
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40"/>
-</p>
+### Frontend & Backend
 
----
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-## 🧰 Tools & Platforms
+### Data & Infrastructure
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40"/>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
----
-
-## 🎯 Interests
-
-- Artificial Intelligence & Machine Learning  
-- Cloud Computing  
-- Backend Engineering  
-- Software Architecture & Design  
-- Scalable Systems  
+</div>
 
 ---
 
-## 🌐 Contact & Profiles
+## 🚀 A Few Things I've Built
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vihanga-kulathilake  
-- 💻 GitLab: https://gitlab.com/VihangaKulathilake  
-- 📧 Email: vihangajanith12m@gmail.com
+### 🛡️ DevGuardian
+An AI-assisted **DevSecOps platform** for analysing repositories, identifying code/security issues and turning findings into actionable insights.
+
+**Java • Spring Boot • Next.js • PostgreSQL • RabbitMQ • Redis • LLMs**
+
+### 🏠 StayMate
+A full-stack **boarding marketplace** connecting tenants and landlords with location-aware discovery, authentication, payments and AI-assisted university support.
+
+**MERN • FastAPI • MongoDB • AWS S3 • PayPal • RAG**
+
+### 🤖 UniAssist AI
+A university-focused conversational assistant using **retrieval-augmented generation** to ground answers in relevant knowledge.
+
+**Gemini • Embeddings • Pinecone • MongoDB**
+
+> More experiments, projects and unfinished ideas live in my repositories ↓
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Vihanga's GitHub stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=VihangaKulathilake&hide_border=true&theme=transparent" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🌱 Beyond Code
+
+Software isn't the only thing I enjoy building.
+
+🎵 **Music** — classical & acoustic vocals  
+🏏 **Cricket** — always tempted to get back on the field  
+🤝 **Community** — IEEE, university initiatives & tech events  
+💡 **Ideas** — especially the ones that could become real products
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+If you're interested in **software engineering, AI, product building, or just making cool things**, feel free to reach out.
+
+<a href="https://www.linkedin.com/in/vihanga-kulathilake">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/VihangaKulathilake">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://gitlab.com/VihangaKulathilake">GitLab</a>
+&nbsp; · &nbsp;
+<a href="mailto:vihangajanith12m@gmail.com">Email</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=VihangaKulathilake&style=flat-square&label=profile+views" alt="Profile views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Stay curious. Build boldly. Keep shipping."*
+
+</div>
