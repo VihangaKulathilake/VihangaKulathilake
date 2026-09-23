@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=VIHANGA%20KULATHILAKE&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Creator&descAlignY=62&descSize=16&animation=twinkling" width="100%" alt="Vihanga Kulathilake"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=VIHANGA%20KULATHILAKE&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Builder%20%7C%20Creator&descAlignY=62&descSize=16&animation=twinkling" width="100%" alt="Vihanga Kulathilake"/>
 
 <a href="https://github.com/VihangaKulathilake"><img src="https://img.shields.io/badge/ENGINEERING-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vihanga-kulathilake"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,10 +18,10 @@
 
 <table>
 <tr>
-<td align="center" width="25%">💻<br><b>ENGINEER</b><br><sub>Full-Stack · Backend · AI</sub></td>
-<td align="center" width="25%">🎤<br><b>CREATOR</b><br><sub>Music · Vocals · Acoustic</sub></td>
-<td align="center" width="25%">🏏<br><b>ATHLETE</b><br><sub>Cricket · Fast Bowling</sub></td>
-<td align="center" width="25%">🚀<br><b>BUILDER</b><br><sub>Products · Ideas → Reality</sub></td>
+<td align="center" width="25%">💻<br><b>ENGINEER</b><br><sub>Software Engineering · Full-Stack · AI</sub></td>
+<td align="center" width="25%">🎤<br><b>MUSIC</b><br><sub>Classical · Acoustic · Vocals</sub></td>
+<td align="center" width="25%">🏏<br><b>CRICKET</b><br><sub>Former school cricketer · Still love the game</sub></td>
+<td align="center" width="25%">🚀<br><b>BUILDER</b><br><sub>Projects · Ideas · Entrepreneurship</sub></td>
 </tr>
 </table>
 
@@ -226,7 +226,7 @@ I like projects where the first question is:
 <table>
 <tr>
 <td align="center">🎤<br><b>MUSIC</b><br><sub>Classical & acoustic vocals</sub></td>
-<td align="center">🏏<br><b>CRICKET</b><br><sub>Fast bowling & competition</sub></td>
+<td align="center">🏏<br><b>CRICKET</b><br><sub>Former school cricketer · Still love the game</sub></td>
 <td align="center">🤝<br><b>COMMUNITY</b><br><sub>IEEE & university initiatives</sub></td>
 <td align="center">💡<br><b>IDEAS</b><br><sub>Products & entrepreneurship</sub></td>
 </tr>
@@ -297,7 +297,7 @@ It's to become someone who can take an idea from a blank screen to something rea
 
 *Code is what I build.*  
 *Music is what I create.*  
-*Competition is what pushes me.*  
+*Cricket is a part of where I come from.*  
 *Curiosity is what keeps me going.*
 
 <br>
