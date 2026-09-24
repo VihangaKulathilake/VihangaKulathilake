@@ -1,33 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=VIHANGA%20KULATHILAKE&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Builder%20%7C%20Creator&descAlignY=62&descSize=16&animation=twinkling" width="100%" alt="Vihanga Kulathilake"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=VIHANGA%20KULATHILAKE&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20%7C%20AI%20%7C%20Builder&descAlignY=62&descSize=16&animation=twinkling" width="100%" alt="Vihanga Kulathilake"/>
 
-<a href="https://github.com/VihangaKulathilake"><img src="https://img.shields.io/badge/ENGINEERING-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vihanga-kulathilake"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vihangajanith12m@gmail.com"><img src="https://img.shields.io/badge/SAY_HI-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/VihangaKulathilake"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vihanga-kulathilake"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vihangajanith12m@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-### CODE &nbsp;·&nbsp; CREATE &nbsp;·&nbsp; COMPETE &nbsp;·&nbsp; BUILD
-
-</div>
-
----
-
-<div align="center">
-
-## 🧬 THE PERSON BEHIND THE CODE
-
-<table>
-<tr>
-<td align="center" width="33%">💻<br><b>ENGINEER</b><br><sub>Software Engineering · Full-Stack · AI</sub></td>
-<td align="center" width="33%">🎭<br><b>BEYOND CODE</b><br><sub>Music · Cricket · Creativity · Competition</sub></td>
-<td align="center" width="33%">🚀<br><b>BUILDER</b><br><sub>Projects · Ideas · Entrepreneurship</sub></td>
-</tr>
-</table>
+### SOFTWARE ENGINEERING &nbsp;·&nbsp; AI &nbsp;·&nbsp; FULL-STACK &nbsp;·&nbsp; SYSTEMS
 
 </div>
-
-> **One-dimensional developer? Not quite.**  
-> I'm interested in the intersection of **technology, creativity, competition and building things people actually use.**
 
 ---
 
@@ -45,32 +26,18 @@ focus:
   - Cloud & Distributed Systems
   - Developer Security
 
-outside_code:
-  - Music & vocals
-  - Cricket
-  - Community & university initiatives
-  - Product ideas
+currently:
+  - Software Engineering Internship @ WSO2
+  - Building software projects
+  - Exploring AI-powered developer tools
 
-mindset:
-  build: "real things"
-  learn: "by doing"
-  goal: "turn ideas into products"
+approach:
+  - Design
+  - Build
+  - Debug
+  - Learn
+  - Ship
 ```
-
-<details>
-<summary>🔍 <b>What does that actually mean?</b></summary>
-
-<br>
-
-I enjoy going from **idea → architecture → implementation → debugging → deployment**.
-
-I'm particularly drawn to APIs, authentication, databases, asynchronous processing, AI pipelines, cloud infrastructure and polished user experiences.
-
-And outside the code, **music and cricket** have been two very different but meaningful parts of my life — one creative, one competitive.
-
-**Current rabbit holes:** AI-powered developer tools · RAG · scalable backend architecture · cloud-native systems.
-
-</details>
 
 ---
 
@@ -86,16 +53,16 @@ And outside the code, **music and cricket** have been two very different but mea
 
 **AI × DevSecOps**
 
-A developer security cockpit that analyses repositories, identifies issues and turns technical findings into useful insights.
+A developer security cockpit for repository analysis, issue detection and AI-assisted technical insights.
 
 **Stack**
 
 `Java` `Spring Boot` `Next.js`  
 `PostgreSQL` `RabbitMQ` `Redis` `LLMs`
 
-**Pipeline**
+**Architecture**
 
-`REPO` → `ANALYSE` → `DETECT` → `EXPLAIN` → `ACT`
+`GITHUB` → `ANALYSIS` → `RULES` → `AI` → `REPORT`
 
 </td>
 <td width="50%" valign="top">
@@ -104,14 +71,14 @@ A developer security cockpit that analyses repositories, identifies issues and t
 
 **Marketplace × AI**
 
-A boarding marketplace connecting tenants and landlords with location-aware discovery, authentication, payments and AI-assisted university support.
+A boarding marketplace with location-aware discovery, authentication, payments and AI-assisted university support.
 
 **Stack**
 
 `MERN` `FastAPI` `MongoDB`  
 `AWS S3` `PayPal` `RAG`
 
-**Pipeline**
+**Architecture**
 
 `DISCOVER` → `MATCH` → `BOOK` → `PAY` → `ASSIST`
 
@@ -124,20 +91,18 @@ A boarding marketplace connecting tenants and landlords with location-aware disc
 
 **RAG × University**
 
-A grounded AI assistant using embeddings and vector search for context-aware university assistance.
+A context-aware university assistant using retrieval-augmented generation, embeddings and vector search.
 
 `Gemini` `Embeddings` `Pinecone` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
-## 🧪 Next experiment...
+## 🧪 Next Build
 
-**Something is cooking.**
+**In progress.**
 
-I like projects where the first question is:
-
-> *“Could this actually become something people use?”*
+Exploring practical software products around **AI, developer tooling and automation**.
 
 </td>
 </tr>
@@ -146,14 +111,14 @@ I like projects where the first question is:
 </div>
 
 <details>
-<summary>🧠 <b>How I think about projects</b></summary>
+<summary>🧠 <b>Engineering workflow</b></summary>
 
 <br>
 
 ```
-        IDEA
-          │
-          ▼
+        PROBLEM
+           │
+           ▼
      ┌──────────┐
      │  DESIGN  │
      └────┬─────┘
@@ -163,14 +128,14 @@ I like projects where the first question is:
      └────┬─────┘
           ▼
      ┌──────────┐
-     │  BREAK   │◄── debugging is part of the design
+     │  TEST    │
      └────┬─────┘
           ▼
      ┌──────────┐
-     │  LEARN   │
+     │  DEBUG   │
      └────┬─────┘
           ▼
-        SHIP 🚀
+       DEPLOY
 ```
 
 </details>
@@ -201,7 +166,7 @@ I like projects where the first question is:
 
 <br>
 
-![Docker](https://img.shields.io/badge/Docker-2496DB?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -219,34 +184,34 @@ I like projects where the first question is:
 | **Backend** | Spring Boot · FastAPI · Node.js |
 | **Data** | PostgreSQL · MongoDB · Redis · Pinecone |
 | **Messaging** | RabbitMQ |
-| **Cloud** | AWS · Docker · CI/CD |
+| **Cloud & DevOps** | AWS · Docker · CI/CD · Vercel · Render |
+| **Security & Identity** | OAuth 2.0 · OIDC · PKCE · Asgardeo |
 | **Developer Tools** | Git · GitHub · GitLab · Postman · Jira |
+| **Engineering** | REST APIs · DSA · OOP · Agile · Distributed Systems |
+| **AI / ML** | Gemini · RAG · Embeddings · Vector Search · Machine Learning |
+</table>
 
 </details>
 
 ---
 
-# 🎭 `./life --not-just-code`
+# 🏆 `./experience --highlights`
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">🎭<br><b>MUSIC × CRICKET</b><br><sub>Creativity · Vocals · School cricket · Competition</sub></td>
-<td align="center" width="50%">🚀<br><b>BUILDING & COMMUNITY</b><br><sub>Projects · Entrepreneurship · IEEE · University initiatives</sub></td>
-</tr>
-</table>
-
-<br>
-
-**Two sides outside the screen:**  
-🎤 **Music** gives me a creative outlet. &nbsp; 🏏 **Cricket** keeps the competitive side alive.
+| ROLE / ACHIEVEMENT | DETAILS |
+|:---|:---|
+| **Software Engineering Intern — WSO2** | 6-month internship · Starting October 2026 |
+| **IEEE Student Branch — University of Kelaniya** | Head of Industry Relations & Industrial Engagements · 2025–26 |
+| **JuniorHack 7.0** | 1st Runner-up · SmartDietSL |
+| **Sawiya Foundation** | Volunteer Web Developer |
+| **Rotaract — University of Kelaniya** | PR Coordinator · EVOLVEX |
 
 </div>
 
 ---
 
-# 📡 `./github --live`
+# 📊 `./github --live`
 
 <div align="center">
 
@@ -263,26 +228,20 @@ I like projects where the first question is:
 ---
 
 <details>
-<summary>🗺️ <b>What's next?</b></summary>
+<summary>🗺️ <b>Current direction</b></summary>
 
 <br>
 
 ```
-2026 ───────────────────────────────────────────────►
-
-        SOFTWARE ENGINEERING
-                 │
-                 ├──► WSO2
-                 ├──► BUILD MORE
-                 ├──► SHIP PRODUCTS
-                 ├──► EXPLORE AI
-                 ├──► KEEP CREATING
-                 └──► KEEP PLAYING
+SOFTWARE ENGINEERING
+        │
+        ├──► Backend Engineering
+        ├──► Full-Stack Development
+        ├──► AI / RAG / ML
+        ├──► Cloud & Distributed Systems
+        ├──► Developer Security
+        └──► Product Engineering
 ```
-
-**The goal isn't just to collect technologies.**
-
-It's to become someone who can take an idea from a blank screen to something real — while keeping the things that make life interesting outside the screen.
 
 </details>
 
@@ -290,15 +249,13 @@ It's to become someone who can take an idea from a blank screen to something rea
 
 <div align="center">
 
-## 👋 YOU MADE IT THIS FAR.
+### LET'S BUILD SOMETHING USEFUL.
 
-**Now explore the repositories.**
-
-[**💻 VIEW MY CODE**](https://github.com/VihangaKulathilake?tab=repositories)
+[**💻 REPOSITORIES**](https://github.com/VihangaKulathilake?tab=repositories)
 &nbsp;&nbsp;·&nbsp;&nbsp;
-[**💼 CONNECT**](https://www.linkedin.com/in/vihanga-kulathilake)
+[**💼 LINKEDIN**](https://www.linkedin.com/in/vihanga-kulathilake)
 &nbsp;&nbsp;·&nbsp;&nbsp;
-[**📧 SAY HI**](mailto:vihangajanith12m@gmail.com)
+[**📧 EMAIL**](mailto:vihangajanith12m@gmail.com)
 
 <br><br>
 
@@ -306,9 +263,7 @@ It's to become someone who can take an idea from a blank screen to something rea
 
 <br><br>
 
-*Code is what I build.*  
-*Music and cricket are part of who I am.*  
-*Curiosity is what keeps me going.*
+*Software Engineering · AI · Full-Stack · Systems*
 
 <br>
 
