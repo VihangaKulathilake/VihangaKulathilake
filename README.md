@@ -217,17 +217,55 @@ I like projects where the first question is:
 
 ---
 
-# 📡 `./github --live`
+# 📊 `./github --live`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165"/>
+### ⚡ PROFILE OVERVIEW
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Vihanga%27s%20GitHub%20Stats&theme=transparent" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=donut-vertical&langs_count=10&hide_border=true&custom_title=Language%20Distribution&theme=transparent" width="40%"/>
+
+<br><br>
+
+### 🔥 CONTRIBUTION STREAK
+
+<img src="https://streak-stats.demolab.com?user=VihangaKulathilake&hide_border=true&mode=weekly&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
+
+<br><br>
+
+### 🏆 GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=VihangaKulathilake&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="95%"/>
+
+<br><br>
+
+### 📈 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VihangaKulathilake&bg_color=00000000&color=7d8590&line=58a6ff&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+
+<br><br>
+
+### 📅 CONTRIBUTION CALENDAR
+
+<img src="https://ghchart.rshah.org/58a6ff/VihangaKulathilake" alt="Vihanga's GitHub contribution calendar" width="95%"/>
+
+<br><br>
+
+<details>
+<summary>🔎 <b>Detailed GitHub metrics</b></summary>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=VihangaKulathilake&hide_border=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" width="90%"/>
+
+<br>
+
+**Tracked through GitHub's public profile data**
+
+Repositories · Stars · Followers · Contributions · Commits · Pull Requests · Issues · Reviews · Discussions · Language distribution · Contribution streak · Activity history
+
+</details>
 
 </div>
 
