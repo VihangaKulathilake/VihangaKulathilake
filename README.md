@@ -221,34 +221,19 @@ I like projects where the first question is:
 
 <div align="center">
 
-### ⚡ PROFILE OVERVIEW
+### ⚡ PROFILE ANALYTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=Vihanga%27s%20GitHub%20Stats&theme=transparent" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&langs_count=10&hide_border=true&custom_title=Language%20Distribution&theme=transparent" width="40%"/>
-
-<br><br>
-
-### 🔥 CONTRIBUTION STREAK
-
-<img src="https://streak-stats.demolab.com?user=VihangaKulathilake&hide_border=true&mode=weekly&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
+<img src="./profile/github-stats.svg" alt="GitHub profile analytics" width="95%"/>
 
 <br><br>
 
-### 🏆 GITHUB TROPHIES
+### 📊 LANGUAGE DISTRIBUTION
 
-<img src="https://github-profile-trophy.vercel.app/?username=VihangaKulathilake&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="95%"/>
-
-<br><br>
-
-### 📈 CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VihangaKulathilake&bg_color=00000000&color=7d8590&line=58a6ff&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="./profile/top-langs.svg" alt="GitHub language statistics" width="95%"/>
 
 <br><br>
 
-### 📅 CONTRIBUTION CALENDAR
-
-<img src="https://ghchart.rshah.org/58a6ff/VihangaKulathilake" alt="Vihanga's GitHub contribution calendar" width="95%"/>
+<sub>Stats are generated inside this repository by GitHub Actions — no external stats-card service required.</sub>
 
 <br><br>
 
@@ -257,9 +242,9 @@ I like projects where the first question is:
 
 <br>
 
-**Public GitHub metrics**
+**Tracked metrics**
 
-Repositories · Stars · Followers · Contributions · Commits · Pull Requests · Issues · Reviews · Discussions · Language distribution · Contribution streak · Activity history
+Public repositories · Followers · Following · Stars · Forks · Commits · Pull Requests · Merged PRs · Issues · Language distribution
 
 </details>
 
