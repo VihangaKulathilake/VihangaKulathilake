@@ -221,42 +221,25 @@ I like projects where the first question is:
 
 <div align="center">
 
-| 📊 GitHub Statistics | 🔢 Count |
-|:---|---:|
-| 📦 Public repositories | **14** |
-| 📝 Public commits | **100+** |
-| 🚀 Active projects | **10+** |
-| 🛠️ Main engineering areas | **Full-Stack · Backend · AI · DevSecOps** |
-| ⭐ Open-source work | **Multiple repositories** |
+<a href="https://github.com/VihangaKulathilake">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&custom_title=Vihanga's%20GitHub%20Stats" />
+</a>
+<a href="https://github.com/VihangaKulathilake">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&custom_title=Most%20Used%20Languages" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/VihangaKulathilake">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VihangaKulathilake&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" height="180" />
+</a>
 
 <br>
 
-### 🔥 CONTRIBUTION SNAPSHOT
-
-| Metric | Current |
-|:---|:---:|
-| **Total public commits** | **100+** |
-| **2026 commits** | **100+** |
-| **Repositories with recent activity** | **10+** |
-| **Featured projects** | **DevGuardian · StayMate · UniAssist AI** |
-
-<br>
-
-<details>
-<summary>📈 <b>What these numbers represent</b></summary>
-
-<br>
-
-- **Public repositories** — repositories currently visible publicly on the profile.
-- **Public commits** — commits authored across the accessible public repositories.
-- **Recent activity** — repositories with development activity in the current project portfolio.
-- **Featured projects** — the main engineering projects highlighted in this profile.
-
-> GitHub's contribution graph can include contributions that aren't represented by a simple repository-commit count, so these figures are kept as straightforward profile metrics rather than pretending to reproduce GitHub's exact contribution-calendar number.
-
-</details>
+<sub>GitHub activity • contribution streak • language distribution • public repository metrics</sub>
 
 </div>
+
 
 ---
 
