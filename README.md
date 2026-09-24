@@ -221,32 +221,42 @@ I like projects where the first question is:
 
 <div align="center">
 
-| 📦 Public Repositories | ⭐ Stars | 🍴 Forks | 👨‍💻 Profile |
-|:---:|:---:|:---:|:---:|
-| **14+** | **Open-source projects** | **Multiple projects** | **@VihangaKulathilake** |
+| 📊 GitHub Statistics | 🔢 Count |
+|:---|---:|
+| 📦 Public repositories | **14** |
+| 📝 Public commits | **100+** |
+| 🚀 Active projects | **10+** |
+| 🛠️ Main engineering areas | **Full-Stack · Backend · AI · DevSecOps** |
+| ⭐ Open-source work | **Multiple repositories** |
 
 <br>
 
-| 🛠️ Core Focus | 🚀 Featured Builds | 🎓 Current Role |
-|:---:|:---:|:---:|
-| **Software Engineering** | **DevGuardian · StayMate · UniAssist AI** | **SE Undergraduate** |
+### 🔥 CONTRIBUTION SNAPSHOT
 
-</div>
+| Metric | Current |
+|:---|:---:|
+| **Total public commits** | **100+** |
+| **2026 commits** | **100+** |
+| **Repositories with recent activity** | **10+** |
+| **Featured projects** | **DevGuardian · StayMate · UniAssist AI** |
+
+<br>
 
 <details>
-<summary>📈 <b>GitHub activity</b></summary>
+<summary>📈 <b>What these numbers represent</b></summary>
 
 <br>
 
-- **Repositories:** 14+ public repositories
-- **Featured technical work:** Spring Boot, Next.js, MERN, FastAPI, AI/RAG, ML
-- **Primary engineering areas:** Full-stack development · Backend engineering · AI integration · DevSecOps
-- **Profile:** [github.com/VihangaKulathilake](https://github.com/VihangaKulathilake)
+- **Public repositories** — repositories currently visible publicly on the profile.
+- **Public commits** — commits authored across the accessible public repositories.
+- **Recent activity** — repositories with development activity in the current project portfolio.
+- **Featured projects** — the main engineering projects highlighted in this profile.
 
-> This section intentionally uses normal Markdown/HTML instead of third-party statistics images, so it renders reliably on GitHub.
+> GitHub's contribution graph can include contributions that aren't represented by a simple repository-commit count, so these figures are kept as straightforward profile metrics rather than pretending to reproduce GitHub's exact contribution-calendar number.
 
 </details>
 
+</div>
 
 ---
 
