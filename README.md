@@ -223,8 +223,8 @@ I like projects where the first question is:
 
 ### ⚡ PROFILE OVERVIEW
 
-<img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Vihanga%27s%20GitHub%20Stats&theme=transparent" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=donut-vertical&langs_count=10&hide_border=true&custom_title=Language%20Distribution&theme=transparent" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=Vihanga%27s%20GitHub%20Stats&theme=transparent" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihangaKulathilake&layout=compact&langs_count=10&hide_border=true&custom_title=Language%20Distribution&theme=transparent" width="40%"/>
 
 <br><br>
 
@@ -257,11 +257,7 @@ I like projects where the first question is:
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VihangaKulathilake&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" width="90%"/>
-
-<br>
-
-**Tracked through GitHub's public profile data**
+**Public GitHub metrics**
 
 Repositories · Stars · Followers · Contributions · Commits · Pull Requests · Issues · Reviews · Discussions · Language distribution · Contribution streak · Activity history
 
