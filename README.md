@@ -221,34 +221,32 @@ I like projects where the first question is:
 
 <div align="center">
 
-### ⚡ PROFILE ANALYTICS
-
-<img src="./profile/github-stats.svg" alt="GitHub profile analytics" width="95%"/>
-
-<br><br>
-
-### 📊 LANGUAGE DISTRIBUTION
-
-<img src="./profile/top-langs.svg" alt="GitHub language statistics" width="95%"/>
-
-<br><br>
-
-<sub>Stats are generated inside this repository by GitHub Actions — no external stats-card service required.</sub>
-
-<br><br>
-
-<details>
-<summary>🔎 <b>Detailed GitHub metrics</b></summary>
+| 📦 Public Repositories | ⭐ Stars | 🍴 Forks | 👨‍💻 Profile |
+|:---:|:---:|:---:|:---:|
+| **14+** | **Open-source projects** | **Multiple projects** | **@VihangaKulathilake** |
 
 <br>
 
-**Tracked metrics**
+| 🛠️ Core Focus | 🚀 Featured Builds | 🎓 Current Role |
+|:---:|:---:|:---:|
+| **Software Engineering** | **DevGuardian · StayMate · UniAssist AI** | **SE Undergraduate** |
 
-Public repositories · Followers · Following · Stars · Forks · Commits · Pull Requests · Merged PRs · Issues · Language distribution
+</div>
+
+<details>
+<summary>📈 <b>GitHub activity</b></summary>
+
+<br>
+
+- **Repositories:** 14+ public repositories
+- **Featured technical work:** Spring Boot, Next.js, MERN, FastAPI, AI/RAG, ML
+- **Primary engineering areas:** Full-stack development · Backend engineering · AI integration · DevSecOps
+- **Profile:** [github.com/VihangaKulathilake](https://github.com/VihangaKulathilake)
+
+> This section intentionally uses normal Markdown/HTML instead of third-party statistics images, so it renders reliably on GitHub.
 
 </details>
 
-</div>
 
 ---
 
