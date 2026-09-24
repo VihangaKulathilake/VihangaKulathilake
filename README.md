@@ -18,10 +18,9 @@
 
 <table>
 <tr>
-<td align="center" width="25%">💻<br><b>ENGINEER</b><br><sub>Software Engineering · Full-Stack · AI</sub></td>
-<td align="center" width="25%">🎤<br><b>MUSIC</b><br><sub>Classical · Acoustic · Vocals</sub></td>
-<td align="center" width="25%">🏏<br><b>CRICKET</b><br><sub>Love the game · Fast Bowling</sub></td>
-<td align="center" width="25%">🚀<br><b>BUILDER</b><br><sub>Projects · Ideas · Entrepreneurship</sub></td>
+<td align="center" width="33%">💻<br><b>ENGINEER</b><br><sub>Software Engineering · Full-Stack · AI</sub></td>
+<td align="center" width="33%">🎭<br><b>BEYOND CODE</b><br><sub>Music · Cricket · Creativity · Competition</sub></td>
+<td align="center" width="33%">🚀<br><b>BUILDER</b><br><sub>Projects · Ideas · Entrepreneurship</sub></td>
 </tr>
 </table>
 
@@ -46,6 +45,12 @@ focus:
   - Cloud & Distributed Systems
   - Developer Security
 
+outside_code:
+  - Music & vocals
+  - Cricket
+  - Community & university initiatives
+  - Product ideas
+
 mindset:
   build: "real things"
   learn: "by doing"
@@ -60,6 +65,8 @@ mindset:
 I enjoy going from **idea → architecture → implementation → debugging → deployment**.
 
 I'm particularly drawn to APIs, authentication, databases, asynchronous processing, AI pipelines, cloud infrastructure and polished user experiences.
+
+And outside the code, **music and cricket** have been two very different but meaningful parts of my life — one creative, one competitive.
 
 **Current rabbit holes:** AI-powered developer tools · RAG · scalable backend architecture · cloud-native systems.
 
@@ -194,7 +201,7 @@ I like projects where the first question is:
 
 <br>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496DB?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -225,12 +232,15 @@ I like projects where the first question is:
 
 <table>
 <tr>
-<td align="center">🎤<br><b>MUSIC</b><br><sub>Classical & acoustic vocals</sub></td>
-<td align="center">🏏<br><b>CRICKET</b><br><sub>Former school cricketer · Still love the game</sub></td>
-<td align="center">🤝<br><b>COMMUNITY</b><br><sub>IEEE & university initiatives</sub></td>
-<td align="center">💡<br><b>IDEAS</b><br><sub>Products & entrepreneurship</sub></td>
+<td align="center" width="50%">🎭<br><b>MUSIC × CRICKET</b><br><sub>Creativity · Vocals · School cricket · Competition</sub></td>
+<td align="center" width="50%">🚀<br><b>BUILDING & COMMUNITY</b><br><sub>Projects · Entrepreneurship · IEEE · University initiatives</sub></td>
 </tr>
 </table>
+
+<br>
+
+**Two sides outside the screen:**  
+🎤 **Music** gives me a creative outlet. &nbsp; 🏏 **Cricket** keeps the competitive side alive.
 
 </div>
 
@@ -266,12 +276,13 @@ I like projects where the first question is:
                  ├──► BUILD MORE
                  ├──► SHIP PRODUCTS
                  ├──► EXPLORE AI
-                 └──► KEEP CREATING
+                 ├──► KEEP CREATING
+                 └──► KEEP PLAYING
 ```
 
 **The goal isn't just to collect technologies.**
 
-It's to become someone who can take an idea from a blank screen to something real.
+It's to become someone who can take an idea from a blank screen to something real — while keeping the things that make life interesting outside the screen.
 
 </details>
 
@@ -296,8 +307,7 @@ It's to become someone who can take an idea from a blank screen to something rea
 <br><br>
 
 *Code is what I build.*  
-*Music is what I create.*  
-*Cricket is a part of where I come from.*  
+*Music and cricket are part of who I am.*  
 *Curiosity is what keeps me going.*
 
 <br>
