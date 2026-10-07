@@ -32,23 +32,23 @@
 <text x="45" y="408" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="18" font-weight="700">Language Distribution</text>
 <text x="45" y="438" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="13">JavaScript</text>
 <rect x="180" y="426" width="600" height="14" rx="7" fill="#21262d"/>
-<rect x="180" y="426" width="253.2" height="14" rx="7" fill="#58a6ff"/>
+<rect x="180" y="426" width="253.0" height="14" rx="7" fill="#58a6ff"/>
 <text x="805" y="438" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">42.2%</text>
 <text x="45" y="459" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="13">TypeScript</text>
 <rect x="180" y="447" width="600" height="14" rx="7" fill="#21262d"/>
-<rect x="180" y="447" width="193.0" height="14" rx="7" fill="#58a6ff"/>
-<text x="805" y="459" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">32.2%</text>
+<rect x="180" y="447" width="193.5" height="14" rx="7" fill="#58a6ff"/>
+<text x="805" y="459" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">32.3%</text>
 <text x="45" y="480" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="13">Java</text>
 <rect x="180" y="468" width="600" height="14" rx="7" fill="#21262d"/>
-<rect x="180" y="468" width="59.3" height="14" rx="7" fill="#58a6ff"/>
+<rect x="180" y="468" width="59.2" height="14" rx="7" fill="#58a6ff"/>
 <text x="805" y="480" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">9.9%</text>
 <text x="45" y="501" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="13">CSS</text>
 <rect x="180" y="489" width="600" height="14" rx="7" fill="#21262d"/>
-<rect x="180" y="489" width="33.9" height="14" rx="7" fill="#58a6ff"/>
+<rect x="180" y="489" width="33.7" height="14" rx="7" fill="#58a6ff"/>
 <text x="805" y="501" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">5.6%</text>
 <text x="45" y="522" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="13">PHP</text>
 <rect x="180" y="510" width="600" height="14" rx="7" fill="#21262d"/>
-<rect x="180" y="510" width="28.9" height="14" rx="7" fill="#58a6ff"/>
+<rect x="180" y="510" width="28.8" height="14" rx="7" fill="#58a6ff"/>
 <text x="805" y="522" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">4.8%</text>
 <text x="45" y="543" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="13">Jupyter Notebook</text>
 <rect x="180" y="531" width="600" height="14" rx="7" fill="#21262d"/>
