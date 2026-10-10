@@ -32,16 +32,16 @@
 <text x="45" y="408" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="18" font-weight="700">Language Distribution</text>
 <text x="45" y="438" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="13">JavaScript</text>
 <rect x="180" y="426" width="600" height="14" rx="7" fill="#21262d"/>
-<rect x="180" y="426" width="252.4" height="14" rx="7" fill="#58a6ff"/>
-<text x="805" y="438" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">42.1%</text>
+<rect x="180" y="426" width="252.2" height="14" rx="7" fill="#58a6ff"/>
+<text x="805" y="438" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">42.0%</text>
 <text x="45" y="459" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="13">TypeScript</text>
 <rect x="180" y="447" width="600" height="14" rx="7" fill="#21262d"/>
-<rect x="180" y="447" width="194.5" height="14" rx="7" fill="#58a6ff"/>
-<text x="805" y="459" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">32.4%</text>
+<rect x="180" y="447" width="194.7" height="14" rx="7" fill="#58a6ff"/>
+<text x="805" y="459" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">32.5%</text>
 <text x="45" y="480" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="13">Java</text>
 <rect x="180" y="468" width="600" height="14" rx="7" fill="#21262d"/>
 <rect x="180" y="468" width="59.1" height="14" rx="7" fill="#58a6ff"/>
-<text x="805" y="480" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">9.9%</text>
+<text x="805" y="480" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">9.8%</text>
 <text x="45" y="501" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="13">CSS</text>
 <rect x="180" y="489" width="600" height="14" rx="7" fill="#21262d"/>
 <rect x="180" y="489" width="33.6" height="14" rx="7" fill="#58a6ff"/>
